@@ -5,6 +5,6 @@ Jupyter Notebooks Environments and Kernel Setups
 sorce cookbook-venv/bin/activate
 
 #### Setup Kernel:
-python -m ipykernel install --user --name cookbook-venv --display-name cookbook-venv\n
+python -m ipykernel install --user --name cookbook-venv --display-name cookbook-venv
 
 Good to go!
